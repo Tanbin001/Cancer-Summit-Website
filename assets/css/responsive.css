@@ -1,0 +1,27 @@
+@media only screen and (max-width: 768px) {
+    nav button{
+        margin-top: 7px;
+        margin-bottom: 7px;
+    }
+    .h-64 {
+        height: 10rem !important;
+    } 
+}
+
+@media only screen and (max-width: 639px) {
+    .copyright-text{
+        text-align: center;
+    }   
+}
+
+@media only screen and (max-width: 460px) {
+    nav button{
+        font-size: 13px;
+    }    
+}
+
+@media only screen and (max-width: 375px) {
+    nav button{
+        font-size: 12px;
+    }    
+}

@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+html, body {
+    margin: 0px;
+    padding: 0px;
+    /* background: url("http://digital.bnint.com/filelib/s9/photos/white_wood_4500x3000_lo_res.jpg"); */
+}
+
+.carousel {
+    position: relative;
+    box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.64);
+    /* margin-top: 26px; */
+}
+
+.carousel-inner {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+
+.carousel-open:checked + .carousel-item {
+    position: static;
+    opacity: 100;
+}
+
+.carousel-item {
+    position: absolute;
+    opacity: 0;
+
+    /* this code is making problem changing in slide doesnt look fluiu */
+    /* -webkit-transition: opacity 0.6s ease-out;
+    transition: opacity 0.6s ease-out; */
+}
+
+.carousel-item img {
+    display: block;
+    /* made the banner fixed hight fixed 600 px you  can change here if you are not satisfied with it  */
+    /* height: 600px; */
+    /* made width 100% here instad of max-width 100% because that was making a empty section on right side of the banner */
+    width: 100%;
+}
+
+/* most of the code below is not necessary check it and remove whatever you dont want */
+.carousel-control {
+    background: rgba(0, 0, 0, 0.28);
+    border-radius: 50%;
+    color: #fff;
+    cursor: pointer;
+    display: none;
+    font-size: 40px;
+    height: 40px;
+    line-height: 35px;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translate(0, -50%);
+    cursor: pointer;
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    text-align: center;
+    width: 40px;
+    z-index: 10;
+}
+
+.carousel-control.prev {
+    left: 2%;
+}
+
+.carousel-control.next {
+    right: 2%;
+}
+
+.carousel-control:hover {
+    background: rgba(0, 0, 0, 0.8);
+    color: #aaaaaa;
+}
+
+#carousel-1:checked ~ .control-1,
+#carousel-2:checked ~ .control-2,
+#carousel-3:checked ~ .control-3, 
+#carousel-4:checked ~ .control-4,
+#carousel-5:checked ~ .control-5 {
+    display: block;
+}
+
+.carousel-indicators {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    bottom: 2%;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 10;
+}
+
+.carousel-indicators li {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.carousel-bullet {
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    font-size: 35px;
+}
+
+.carousel-bullet:hover {
+    color: #aaaaaa;
+}
+
+#carousel-1:checked ~ .control-1 ~ .carousel-indicators li:nth-child(1) .carousel-bullet,
+#carousel-2:checked ~ .control-2 ~ .carousel-indicators li:nth-child(2) .carousel-bullet,
+#carousel-3:checked ~ .control-3 ~ .carousel-indicators li:nth-child(3) .carousel-bullet,
+#carousel-4:checked ~ .control-4 ~ .carousel-indicators li:nth-child(4) .carousel-bullet,
+#carousel-5:checked ~ .control-5 ~ .carousel-indicators li:nth-child(5) .carousel-bullet {
+    color: #428bca;
+}
+
+#title {
+    width: 100%;
+    position: absolute;
+    padding: 0px;
+    margin: 0px auto;
+    text-align: center;
+    font-size: 27px;
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Open Sans', sans-serif;
+    z-index: 19;
+    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.33), -1px 0px 2px rgba(255, 255, 255, 0);
+}
+
+
+/* modal style */
+.modal {
+    /* transition: opacity 0.25s ease;
+     */
+     color: black;
+    z-index: 29;
+
+  }
+  body.modal-active {
+    overflow-x: hidden;
+    overflow-y: visible !important;
+  }
+
+  .def-text{
+    color: #F3D059;
+  }
+
+  .eBuzz-it{
+      font-size: 1rem;
+      font-weight: bold;
+  }
+  .eBuzz-it:hover{
+    color: rgba(5, 148, 145);
+  }
+  .accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+  }
+  
+  .active, .accordion:hover {
+    background-color: #ccc; 
+  }
+  
+  .panel {
+    padding: 0 18px;
+    display: none;
+    background-color: white;
+    overflow: hidden;
+  }
+
+  .h-250{
+      height: 250px;
+  }
+  .venue-text{
+    font-family: 'Cormorant Garamond', serif;
+  }
+  
+  .ifarme-container{
+      position: relative;
+      width: 100%;
+      height: 100%;
+      padding-bottom: 50%;
+  }
+  .ifarme-container iframe{
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+  }
+ .nav-txt{
+    background: linear-gradient(to right, #240272 0%, #0ab998 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .custom-nav-1{
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+  }
+  .custom-nav-1 img{
+    width: 120px;
+  }
+  /* .banner-custom-image {
+    object-fit: contain !important;
+    width: 100%;
+    height: 100%;
+  } */
