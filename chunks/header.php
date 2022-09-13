@@ -5,12 +5,12 @@
             <div class="custom-nav-1">
                     <div>
                         <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                            <img src="./assets/images/logo/Strategy Summit 2022.png" alt="">
+                            <img src="../assets/images/logo/Strategy Summit 2022.png" alt="">
                         </a>
                     </div>
                     <div>
                         <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                            <img src="./assets/images/logo/logo.png" alt="">
+                            <img src="../assets/images/logo/logo.png" alt="">
                         </a>
                     </div>
                 </div>
