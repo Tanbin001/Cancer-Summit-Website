@@ -391,7 +391,7 @@
         <!-- Panelists Section End -->
 
         <!-- Panel Update Start-->
-        <section class="text-gray-600 body-font">
+        <section class="text-gray-600 body-font" id="panelist">
             <div class="container px-5 py-10 mx-auto">
                 <div class="flex flex-col text-center w-full mb-8">
                     <h1 class="sm:text-4xl text-2xl font-medium title-font mb-4 text-gray-900">Meet The Trustees</h1>

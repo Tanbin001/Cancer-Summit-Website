@@ -1,27 +1,35 @@
  <!-- Navbar Start -->
     <header class="text-white body-font bg-gray-100">
-        <div class="container mx-auto  pt-2 pb-2 items-center">
+        <div class="container mx-auto  pt-0 pb-2 items-center">
 
             <div class="custom-nav-1">
                     <div>
                         <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                            <img src="./assets/images/logo/Strategy Summit 2022.png" class="w" alt="">
+                            <img src="./assets/images/logo/Strategy Summit 2022.png" class="w-32" alt="">
                         </a>
                     </div>
                     <div>
                         <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                            <img src="./assets/images/logo/logo.png" alt="">
+                            <img src="./assets/images/logo/bancat.png" class="w-32" alt="">
+                        </a>
+                    </div>
+                    <div class="flex flex-col">
+                        <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                            <span style="color: black"><i class="fas fa-phone"></i> +880 1404016993</span>
+                        </a>
+                        <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                            <span style="color: black"><i class="fas fa-phone"></i> +880 1404016993</span>
+                        </a>
+                    </div>
+                    <div>
+                        <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                            <img src="./assets/images/logo/Valor of Bangladesh-01.png" class="w-32" alt="">
                         </a>
                     </div>
                 </div>
             <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
 
-
-                <!--<button-->
-                <!--    class="transition duration-500 ease-in-out bg-black nav-txt hover:bg-yellow-200 transform hover:-translate-y-1 hover:scale-110 px-4 py-2 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">-->
-                <!--    <a href="#cxo">For Leader's</a>-->
-                <!--</button>-->
-                <div>
+                <div class="pb-5">
                 <button
                     class="modal-open transition duration-500 ease-in-out bg-black nav-txt hover:bg-yellow-200 transform hover:-translate-y-1 hover:scale-110 px-6 py-2 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">
                     Cancer SUMMIT 2022
@@ -29,6 +37,10 @@
                 <button
                     class="transition duration-500 ease-in-out nav-txt transform hover:-translate-y-1 hover:scale-110 px-6 py-2 ml-3 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">
                     <a href="/registration-1.php">Register as a Participant</a>
+                </button>
+                <button
+                    class="transition duration-500 ease-in-out nav-txt transform hover:-translate-y-1 hover:scale-110 px-6 py-2 ml-3 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">
+                    <a href="#panelist">Honorable Panelists</a>
                 </button>
 
                 <!--Modal here customize it however you want-->
@@ -78,19 +90,7 @@
                         </div>
                     </div>
                 </div>
-
             </nav>
-
-            <!-- <button
-                class="inline-flex transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110 nav-txt  px-4 py-2 rounded-full mr-4">
-                <a href="https://valorofbangladesh.com/" target="_blank">
-                <img src="../assets/images/logo/Valor of Bangladesh Logo-01.png" width="80" alt="">
-            </a>
-                <!--<a target="_blank" href="http://valorofbangladesh.com/">Visit VOB</a>-->
-                <!--<svg fill="none" stroke="#0ab998" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"-->
-                <!--    class="w-4 h-4 ml-1 mt-1" viewBox="0 0 24 24">-->
-                <!--    <path d="M5 12h14M12 5l7 7-7 7"></path>
-            </button> -->
         </div>
     </header>
  <!-- Navbar End -->
