@@ -5,12 +5,12 @@
             <div class="custom-nav-1">
                     <div>
                         <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                            <img src="../assets/images/logo/Strategy Summit 2022.png" alt="">
+                            <img src="./assets/images/logo/Strategy Summit 2022.png" class="w" alt="">
                         </a>
                     </div>
                     <div>
                         <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-                            <img src="../assets/images/logo/logo.png" alt="">
+                            <img src="./assets/images/logo/logo.png" alt="">
                         </a>
                     </div>
                 </div>
@@ -81,7 +81,7 @@
 
             </nav>
 
-            <button
+            <!-- <button
                 class="inline-flex transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110 nav-txt  px-4 py-2 rounded-full mr-4">
                 <a href="https://valorofbangladesh.com/" target="_blank">
                 <img src="../assets/images/logo/Valor of Bangladesh Logo-01.png" width="80" alt="">
@@ -89,8 +89,8 @@
                 <!--<a target="_blank" href="http://valorofbangladesh.com/">Visit VOB</a>-->
                 <!--<svg fill="none" stroke="#0ab998" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"-->
                 <!--    class="w-4 h-4 ml-1 mt-1" viewBox="0 0 24 24">-->
-                <!--    <path d="M5 12h14M12 5l7 7-7 7"></path>-->
-            </button>
+                <!--    <path d="M5 12h14M12 5l7 7-7 7"></path>
+            </button> -->
         </div>
     </header>
  <!-- Navbar End -->
