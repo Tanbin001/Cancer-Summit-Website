@@ -31,15 +31,15 @@
 
                 <div class="pb-5">
                 <button
-                    class="modal-open transition duration-500 ease-in-out bg-black nav-txt hover:bg-yellow-200 transform hover:-translate-y-1 hover:scale-110 px-6 py-2 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">
+                    class="modal-open transition duration-500 ease-in-out bg-black nav-txt hover:bg-yellow-200 transform hover:-translate-y-1 hover:scale-110 px-3 py-2 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">
                     Cancer SUMMIT 2022
                 </button>
                 <button
-                    class="transition duration-500 ease-in-out nav-txt transform hover:-translate-y-1 hover:scale-110 px-6 py-2 ml-3 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">
+                    class="transition duration-500 ease-in-out nav-txt transform hover:-translate-y-1 hover:scale-110 px-3 py-2 ml-3 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">
                     <a href="/registration-1.php">Register as a Participant</a>
                 </button>
                 <button
-                    class="transition duration-500 ease-in-out nav-txt transform hover:-translate-y-1 hover:scale-110 px-6 py-2 ml-3 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">
+                    class="transition duration-500 ease-in-out nav-txt transform hover:-translate-y-1 hover:scale-110 px-3 py-2 ml-3 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">
                     <a href="#panelist">Honorable Panelists</a>
                 </button>
 

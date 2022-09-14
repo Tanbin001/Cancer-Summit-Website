@@ -29,13 +29,17 @@
             <!-- Slider controls -->
             <button type="button" class="absolute top-0 left-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none" data-carousel-prev="">
                 <span class="inline-flex items-center justify-center w-10 h-10 rounded-full bg-white/30 dark:bg-gray-800/30 group-hover:bg-white/50 dark:group-hover:bg-gray-800/60 group-focus:ring-4 group-focus:ring-white dark:group-focus:ring-gray-800/70 group-focus:outline-none">
-                    <svg aria-hidden="true" class="w-6 h-6 text-white dark:text-gray-800" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg>
+                    <svg aria-hidden="true" class="w-6 h-6 text-white dark:text-gray-800" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+                    </svg>
                     <span class="sr-only">Previous</span>
                 </span>
             </button>
             <button type="button" class="absolute top-0 right-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none" data-carousel-next="">
                 <span class="inline-flex items-center justify-center w-10 h-10 rounded-full bg-white/30 dark:bg-gray-800/30 group-hover:bg-white/50 dark:group-hover:bg-gray-800/60 group-focus:ring-4 group-focus:ring-white dark:group-focus:ring-gray-800/70 group-focus:outline-none">
-                    <svg aria-hidden="true" class="w-6 h-6 text-white dark:text-gray-800" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+                    <svg aria-hidden="true" class="w-6 h-6 text-white dark:text-gray-800" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
                     <span class="sr-only">Next</span>
                 </span>
             </button>
@@ -53,16 +57,15 @@
                     <br>
                     <div class="py-6 mb-4 lg:mx-44 md:mx-24 nav-txt ring-4 ring-emerald-500 italic uppercase lg:font-extrabold">
                         <center>
-                            <h1
-                                class="sm:w-full md:w-full lg:w-full text-gray-900 title-font lg:text-2xl md:text-md sm:text-sm mb-2 sm:mb-0">
+                            <h1 class="sm:w-full md:w-full lg:w-full text-gray-900 title-font lg:text-2xl md:text-md sm:text-sm mb-2 sm:mb-0">
                                 Valor of Bangladesh Presents STRATEGY SUMMIT 2022</h1>
                         </center>
                     </div>
                 </div>
                 <div class="py-6 uppercase lg:font-extrabold text-gray-900">
                     <center>
-                    <h1 class="sm:w-full md:w-full lg:w-full text-gray-900 title-font lg:text-2xl md:text-md sm:text-sm mb-2 sm:mb-0 py-3">Program starts in</h1>
-                    <script class="eca65e30de7bf0be52789d3dd040ee12" src="https://w.promofeatures.com/js/timer/eca65e30de7bf0be52789d3dd040ee12.js?v=1661424869"></script>
+                        <h1 class="sm:w-full md:w-full lg:w-full text-gray-900 title-font lg:text-2xl md:text-md sm:text-sm mb-2 sm:mb-0 py-3">Program starts in</h1>
+                        <script class="eca65e30de7bf0be52789d3dd040ee12" src="https://w.promofeatures.com/js/timer/eca65e30de7bf0be52789d3dd040ee12.js?v=1661424869"></script>
                     </center>
 
                 </div>
@@ -70,11 +73,7 @@
                     <center>
                         <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/s_iFGBPDtXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
-                        <iframe width="600" height="300"
-                            src="https://www.youtube.com/embed/PglBNJGLDIE?autoplay=1&mute=1&loop=1&rel=0&showinfo=0"
-                            frameborder="0" allowfullscreen title="YouTube video player" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            loading="eager" allowfullscreen></iframe>
+                        <iframe width="600" height="300" src="https://www.youtube.com/embed/PglBNJGLDIE?autoplay=1&mute=1&loop=1&rel=0&showinfo=0" frameborder="0" allowfullscreen title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" loading="eager" allowfullscreen></iframe>
                     </center>
                 </div>
                 <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-12">
@@ -83,8 +82,7 @@
                 <div class="flex flex-wrap justify-center content-center sm:-m-4 -mx-4 -mb-10 -mt-4 pt-10">
                     <div class="shadow-2xl rounded-lg p-4 md:w-1/3 sm:w-1/3 sm:mb-0 mb-6">
                         <div class="rounded-lg h-64 overflow-hidden">
-                            <img alt="content" class="object-cover object-center h-full w-full"
-                                src="./assets/images/gallery/resize (1).jpg">
+                            <img alt="content" class="object-cover object-center h-full w-full" src="./assets/images/gallery/resize (1).jpg">
                         </div>
                         <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Destination</h2>
                         <p class="lg:text-4xl md:text-2xl text-2xl font-extrabold leading-relaxed mt-2">Radisson Blu,
@@ -93,8 +91,7 @@
 
                     <div class="shadow-2xl rounded-lg p-4 md:w-1/3 sm:w-1/3 sm:mb-0 mb-6">
                         <div class="rounded-lg h-64 overflow-hidden">
-                            <img alt="content" class="object-cover object-center h-full w-full"
-                                src="./assets/images/gallery/resize (2).jpg">
+                            <img alt="content" class="object-cover object-center h-full w-full" src="./assets/images/gallery/resize (2).jpg">
                         </div>
                         <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Date & Time</h2>
                         <p class="lg:text-4xl md:text-2xl text-2xl font-extrabold leading-relaxed mt-2">6th August,
@@ -104,8 +101,7 @@
 
                     <div class="shadow-2xl rounded-lg p-4 md:w-1/3 sm:w-1/3 sm:mb-0 mb-6">
                         <div class="rounded-lg h-64 overflow-hidden">
-                            <img alt="content" class="object-cover object-center h-full w-full"
-                                src="./assets/images/gallery/resize (3).jpg">
+                            <img alt="content" class="object-cover object-center h-full w-full" src="./assets/images/gallery/resize (3).jpg">
                         </div>
                         <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Venue</h2>
                         <p class="lg:text-4xl md:text-2xl text-2xl font-extrabold leading-relaxed mt-2  ">Utshab Hall
@@ -129,32 +125,24 @@
                     Brochure, Event Schedule and stay Updated for the STRATEGY SUMMIT 2022!</p>
                 <section class="mt-6 grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap-x-6 gap-y-8 justify-center">
                     <article></article>
-                    <article
-                        class="relative w-full h-64 bg-cover bg-center group rounded-lg overflow-hidden shadow-lg hover:shadow-2xl  transition duration-300 ease-in-out"
-                        style="background-image: url('../assets/images/logo/Strategy Summit 2022.jpg');">
-                        <div
-                            class="absolute inset-0 bg-black bg-opacity-70 group-hover:opacity-75 transition duration-300 ease-in-out">
+                    <article class="relative w-full h-64 bg-cover bg-center group rounded-lg overflow-hidden shadow-lg hover:shadow-2xl  transition duration-300 ease-in-out" style="background-image: url('../assets/images/logo/Strategy Summit 2022.jpg');">
+                        <div class="absolute inset-0 bg-black bg-opacity-70 group-hover:opacity-75 transition duration-300 ease-in-out">
                         </div>
                         <div class="relative w-full h-full px-4 sm:px-6 lg:px-4 flex justify-center items-center">
                             <h3 class="text-center">
-                                <a href="../assets/files/SS1p.pdf"
-                                    class="text-white text-2xl font-bold text-center" href="#">
+                                <a href="../assets/files/SS1p.pdf" class="text-white text-2xl font-bold text-center" href="#">
                                     <span class="absolute inset-0"></span>
                                     Click to Download <br> <br> Strategy Summit Brouchure
                                 </a>
                             </h3>
                         </div>
                     </article>
-                    <article
-                        class="relative w-full h-64 bg-cover bg-center group rounded-lg overflow-hidden shadow-lg hover:shadow-2xl  transition duration-300 ease-in-out"
-                        style="background-image: url('../assets/images/gallery/event-schedule.jpg');">
-                        <div
-                            class="absolute inset-0 bg-black bg-opacity-50 group-hover:opacity-75 transition duration-300 ease-in-out">
+                    <article class="relative w-full h-64 bg-cover bg-center group rounded-lg overflow-hidden shadow-lg hover:shadow-2xl  transition duration-300 ease-in-out" style="background-image: url('../assets/images/gallery/event-schedule.jpg');">
+                        <div class="absolute inset-0 bg-black bg-opacity-50 group-hover:opacity-75 transition duration-300 ease-in-out">
                         </div>
                         <div class="relative w-full h-full px-4 sm:px-6 lg:px-4 flex justify-center items-center">
                             <h3 class="text-center">
-                            <a href="../assets/files/Strategy Summit 2022.jpg"
-                                    class="text-white text-2xl font-bold text-center" href="#">
+                                <a href="../assets/files/Strategy Summit 2022.jpg" class="text-white text-2xl font-bold text-center" href="#">
                                     <span class="absolute inset-0"></span>
                                     Click to Download <br> <br> Event Schedule
                                 </a>
@@ -188,7 +176,7 @@
         <!-- Box Section End -->
 
         <!-- registration part -->
-    <!--    <section class="text-gray-600 body-font pt-20">
+        <!--    <section class="text-gray-600 body-font pt-20">
             <div id="cxo" class="container mx-auto flex px-5 items-center justify-center flex-col bg-repeat-x"
                 style="background-image: url('../assets/images/logo/graphic (2).png')">
                 <h1 class="title-font sm:text-3xl md:text-4xl lg:text-5xl mb-4 font-bold text-gray-900">Nomination for
@@ -223,18 +211,15 @@
                 <div class="flex flex-wrap -mx-4 -mb-10 text-center">
                     <div class="sm:w-full mb-10 px-4">
                         <div class="rounded-lg h-64 overflow-hidden">
-                            <img alt="content" class="object-cover ml-24 lg:ml-72 md:ml-52 object-center h-full w-2/4"
-                                src="../assets/images/logo/WEBISTE-1.jpg">
+                            <img alt="content" class="object-cover ml-24 lg:ml-72 md:ml-52 object-center h-full w-2/4" src="../assets/images/logo/WEBISTE-1.jpg">
                         </div>
                         <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Taking the Final Step</h2>
                         <p class="leading-relaxed text-base">Join us in this journey as a participant. Book your seat
                             and meet the Leaders from all over Bangladesh and open the door of opportunities.</p>
-                        <span
-                            class="bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-blue-500 text-3xl font-extrabold">Reg.
+                        <span class="bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-blue-500 text-3xl font-extrabold">Reg.
                             Fees: BDT 10,000/-</span>
                         <br>
-                        <button type="submit"
-                            class="inline-flex text-white bg-indigo-500 border-0 mt-2 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+                        <button type="submit" class="inline-flex text-white bg-indigo-500 border-0 mt-2 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
                             <a target="_self" href="/registration-1.php">Register As A Participant</a></button>
                     </div>
                     <!--<div class="sm:w-1/2 mb-10 px-4">-->
@@ -403,14 +388,13 @@
                     <!--    2022.-->
                     <!--    Hear from our Trustee Board to see what they have to say about Strategy Summit 2022."</p>-->
                     <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-12">
-                    <div class="w-3/4 h-full bg-indigo-500"></div>
-                </div>
+                        <div class="w-3/4 h-full bg-indigo-500"></div>
+                    </div>
                 </div>
                 <div class="-m-4 grid grid-cols-2 gap-4 lg:grid-cols-4 md:grid-cols-3">
                     <div class="">
                         <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-                            <img class="lg:h-48 md:h-36 w-full object-cover object-center"
-                                src="./assets/images/gallery/panel/panel (8).jpg" alt="blog">
+                            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="./assets/images/gallery/panel/panel (8).jpg" alt="blog">
                             <div class="p-6">
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Anis A Khan</h1>
                                 <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Vice
@@ -422,8 +406,7 @@
                     </div>
                     <div class="">
                         <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-                            <img class="lg:h-48 md:h-36 w-full object-cover object-center"
-                                src="./assets/images/gallery/panel/panel (10).png" alt="blog">
+                            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="./assets/images/gallery/panel/panel (10).png" alt="blog">
                             <div class="p-6">
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">KAM Majedur Rahman</h1>
                                 <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">CEO, A K
@@ -436,8 +419,7 @@
                     </div>
                     <div class="">
                         <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-                            <img class="lg:h-48 md:h-36 w-full object-cover object-center"
-                                src="./assets/images/gallery/panel/panel (9).jpg" alt="blog">
+                            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="./assets/images/gallery/panel/panel (9).jpg" alt="blog">
                             <div class="p-6">
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Syed Mamnun Quader</h1>
                                 <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">CEO & MD,
@@ -451,8 +433,7 @@
                     </div>
                     <div class="">
                         <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-                            <img class="lg:h-48 md:h-36 w-full object-cover object-center"
-                                src="./assets/images/gallery/panel/panel (5).png" alt="blog">
+                            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="./assets/images/gallery/panel/panel (5).png" alt="blog">
                             <div class="p-6">
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Raihan Shamsi</h1>
                                 <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
@@ -466,8 +447,7 @@
                     </div>
                     <div class="">
                         <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-                            <img class="lg:h-48 md:h-36 w-full object-cover object-center"
-                                src="./assets/images/gallery/panel/panel (11).jpeg" alt="blog">
+                            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="./assets/images/gallery/panel/panel (11).jpeg" alt="blog">
                             <div class="p-6">
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Yasir Azman</h1>
                                 <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">CEO, Grameenphone Ltd.
@@ -479,8 +459,7 @@
                     </div>
                     <div class="">
                         <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-                            <img class="lg:h-48 md:h-36 w-full object-cover object-center"
-                                src="./assets/images/gallery/panel/panel (1).jpg" alt="blog">
+                            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="./assets/images/gallery/panel/panel (1).jpg" alt="blog">
                             <div class="p-6">
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Shams Mahmud</h1>
                                 <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Former President,
@@ -494,8 +473,7 @@
                     </div>
                     <div class="">
                         <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-                            <img class="lg:h-48 md:h-36 w-full object-cover object-center"
-                                src="./assets/images/gallery/panel/panel (2).jpg" alt="blog">
+                            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="./assets/images/gallery/panel/panel (2).jpg" alt="blog">
                             <div class="p-6">
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Masud Khan</h1>
 
@@ -510,8 +488,7 @@
                     </div>
                     <div class="">
                         <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-                            <img class="lg:h-48 md:h-36 w-full object-cover object-center"
-                                src="./assets/images/gallery/panel/panel (3).jpg" alt="blog">
+                            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="./assets/images/gallery/panel/panel (3).jpg" alt="blog">
                             <div class="p-6">
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Mahzabin Ferdous</h1>
                                 <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Co-founder
@@ -524,8 +501,7 @@
                     </div>
                     <div class="">
                         <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-                            <img class="lg:h-48 md:h-36 w-full object-cover object-center"
-                                src="./assets/images/gallery/panel/panel (4).png" alt="blog">
+                            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="./assets/images/gallery/panel/panel (4).png" alt="blog">
                             <div class="p-6">
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Shah MD. Ahsan Habib</h1>
                                 <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Director,
@@ -538,8 +514,7 @@
                     </div>
                     <div class="">
                         <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-                            <img class="lg:h-48 md:h-36 w-full object-cover object-center"
-                                src="./assets/images/gallery/panel/panel (6).jpg" alt="blog">
+                            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="./assets/images/gallery/panel/panel (6).jpg" alt="blog">
                             <div class="p-6">
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Shehzad Munim</h1>
                                 <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Managing
@@ -552,8 +527,7 @@
                     </div>
                     <div class="">
                         <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-                            <img class="lg:h-48 md:h-36 w-full object-cover object-center"
-                                src="./assets/images/gallery/panel/panel (7).jpg" alt="blog">
+                            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="./assets/images/gallery/panel/panel (7).jpg" alt="blog">
                             <div class="p-6">
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Sayed Mohammad Kamal</h1>
                                 <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Country
@@ -567,8 +541,7 @@
                     </div>
                     <div class="">
                         <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-                            <img class="lg:h-48 md:h-36 w-full object-cover object-center"
-                                src="./assets/images/gallery/panel/panel (12).jpg" alt="blog">
+                            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="./assets/images/gallery/panel/panel (12).jpg" alt="blog">
                             <div class="p-6">
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Imran Rahman</h1>
                                 <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
@@ -581,8 +554,7 @@
                     </div>
                     <div class="">
                         <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-                            <img class="lg:h-48 md:h-36 w-full object-cover object-center"
-                                src="./assets/images/gallery/panel/panel (13).png" alt="blog">
+                            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="./assets/images/gallery/panel/panel (13).png" alt="blog">
                             <div class="p-6">
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Najmus Ahmed Albab</h1>
                                 <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Executive
@@ -596,8 +568,7 @@
                     </div>
                     <div class="">
                         <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-                            <img class="lg:h-48 md:h-36 w-full object-cover object-center"
-                                src="./assets/images/gallery/panel/panel (15).jpg" alt="blog">
+                            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="./assets/images/gallery/panel/panel (15).jpg" alt="blog">
                             <div class="p-6">
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Zahida Fizza Kabir</h1>
                                 <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">CEO, SAJEDA Foundation
@@ -610,8 +581,7 @@
                     </div>
                     <div class="">
                         <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-                            <img class="lg:h-48 md:h-36 w-full object-cover object-center"
-                                src="./assets/images/gallery/panel/panel (14).jpg" alt="blog">
+                            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="./assets/images/gallery/panel/panel (14).jpg" alt="blog">
                             <div class="p-6">
                                 <h1 class="title-font text-lg font-medium text-gray-900 mb-3">AZM Saif</h1>
                                 <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">MD, Paper Rhyme Advertising Limited
@@ -708,64 +678,52 @@
                     edition of CXO Summit~</p>
             </div>
             <div class="h-1 w-5/6 bg-indigo-200 rounded overflow-hidden ml-12 mr-10 mt-12 mb-8">
-                    <div class="w-5/6 h-full bg-indigo-500"></div>
-                </div>
+                <div class="w-5/6 h-full bg-indigo-500"></div>
+            </div>
             <div class="container px-5 py-2 mx-auto lg:pt-4 lg:px-24">
                 <div class="flex flex-wrap -m-1 md:-m-2">
                     <div class="flex flex-wrap w-1/2">
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/images/gallery/gallery (1).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (1).jpg">
                         </div>
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/images/gallery/gallery (2).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (2).jpg">
                         </div>
                         <div class="w-full p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/images/gallery/gallery (3).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (3).jpg">
                         </div>
                     </div>
                     <div class="flex flex-wrap w-1/2">
                         <div class="w-full p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/images/gallery/gallery (4).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (4).jpg">
                         </div>
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/images/gallery/gallery (5).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (5).jpg">
                         </div>
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/images/gallery/gallery (6).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (6).jpg">
                         </div>
                     </div>
                     <div class="flex flex-wrap w-1/2">
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/images/gallery/gallery (10).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (10).jpg">
                         </div>
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/images/gallery/gallery (11).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (11).jpg">
                         </div>
                         <div class="w-full p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/images/gallery/gallery (12).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (12).jpg">
                         </div>
                     </div>
                     <div class="flex flex-wrap w-1/2">
                         <div class="w-full p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/images/gallery/gallery (9).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (9).jpg">
                         </div>
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/images/gallery/gallery (7).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (7).jpg">
                         </div>
                         <div class="w-1/2 p-1 md:p-2">
-                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-                                src="../assets/images/gallery/gallery (8).jpg">
+                            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="../assets/images/gallery/gallery (8).jpg">
                         </div>
                     </div>
                 </div>
@@ -773,5 +731,40 @@
             </div>
         </section>
         <!-- extra gallery section -->
+
+
+        <!-- Contact and Map Section Start -->
+
+        <section class="text-gray-600 body-font relative my-6 mx-12">
+            <div class="absolute inset-0 bg-gray-300">
+                <iframe width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0" title="map" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.0749249831692!2d90.40669431427716!3d23.81593459218807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c6feb6c1b7b1%3A0x76350c55ebc50c34!2sRadisson%20Blu%20Dhaka%20Water%20Garden!5e0!3m2!1sen!2sbd!4v1663179151685!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" style="filter: grayscale(1) contrast(1.2) opacity(0.4);"></iframe>
+            </div>
+            <div class="container px-5 py-24 mx-auto flex">
+                <div class="lg:w-1/3 md:w-1/2 bg-white rounded-lg p-8 flex flex-col md:ml-auto w-50% mt-10 md:mt-0 relative z-10 shadow-md">
+                    <h2 class="text-gray-900 text-lg mb-1 font-medium title-font">Connect</h2>
+                    <p class="leading-relaxed mb-5 text-gray-600">Connect with us and know about our initiatives for cancer patients.</p>
+                    <div class="relative mb-4">
+                        <label for="name" class="leading-7 text-sm text-gray-600">Name</label>
+                        <input type="name" id="name" name="name" class="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
+                    </div>
+                    <div class="relative mb-4">
+                        <label for="email" class="leading-7 text-sm text-gray-600">Email</label>
+                        <input type="email" id="email" name="email" class="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
+                    </div>
+                    <div class="relative mb-4">
+                        <label for="phone" class="leading-7 text-sm text-gray-600">Phone</label>
+                        <input type="phone" id="phone" name="phone" class="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
+                    </div>
+                    <div class="relative mb-4">
+                        <label for="message" class="leading-7 text-sm text-gray-600">Message</label>
+                        <textarea id="message" name="message" class="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out" spellcheck="false" data-ms-editor="true"></textarea>
+                    </div>
+                    <button class="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Send</button>
+                    <p class="text-xs text-gray-500 mt-3">Contact with one of our Associate</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact and Map Section Start -->
 
 </main>

@@ -27,7 +27,7 @@
         <?php
                 }
             ?>
-        <div class="w-full lg:w-8/12 px-4 mx-auto mt-6">
+        <div class="w-full lg:w-8/12 px-40 mx-auto mt-6">
             <div
                 class="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded-lg bg-blueGray-100 border-0">
                 <div class="rounded-t bg-white mb-0 px-6 py-6">
@@ -38,7 +38,7 @@
                         <button
                             class="bg-pink-500 text-white active:bg-pink-600 font-bold uppercase text-xs px-4 py-2 rounded shadow hover:shadow-md outline-none focus:outline-none mr-1 transition transform hover:-translate-y-1 hover:scale-110 duration-500 ease-in-out"
                             type="button">
-                            <a href="/">Back to SS22</a>
+                            <a href="/">Back to CS22</a>
                         </button>
                     </div>
                 </div>
@@ -119,7 +119,7 @@
 
             <!-- Image -->
       <div class="col-span-3">
-        <img src="../assets/images/gallery/mtb.png" width="100%" />
+        <img src="../assets/images/gallery/mtb.png" width="80%" />
       </div>
 
     </div>
@@ -130,7 +130,7 @@
     <div class="grid grid-cols-6 gap-0">
       
       <!-- Image -->
-      <div class="col-span-4">
+      <div class="col-span-4 pl-20">
         <img src="../assets/images/gallery/bkash.png" width="200" />
       </div>
 
