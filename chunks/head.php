@@ -1,8 +1,8 @@
 <?php
 if (isset($_SESSION['title'])) {
-    $title = "Strategy Summit 2022 | " . $_SESSION['title'];
+    $title = "Cancer Summit 2022 | " . $_SESSION['title'];
 } else {
-    $title = "Strategy Summit 2022";
+    $title = "Cancer Summit 2022";
 }
 ?>
 

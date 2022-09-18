@@ -2,7 +2,7 @@
     <header class="text-white body-font bg-gray-100">
         <div class="container mx-auto  pt-0 pb-2 items-center">
 
-            <div class="custom-nav-1">
+            <div class="flex flex-row justify-between items-center md:flex md:flex-col sm:flex sm:flex-col ">
                     <div>
                         <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                             <img src="./assets/images/logo/Strategy Summit 2022.png" class="w-32" alt="">
@@ -22,7 +22,7 @@
                         </a>
                     </div>
                     <div>
-                        <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                        <a href="https://valorofbangladesh.com/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                             <img src="./assets/images/logo/Valor of Bangladesh-01.png" class="w-32" alt="">
                         </a>
                     </div>

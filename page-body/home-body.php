@@ -21,10 +21,10 @@
                 <div class="hidden duration-700 ease-in-out absolute inset-0 transition-all transform" data-carousel-item="">
                     <img src="./assets/images/banner/banner 3.jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 banner-custom-image" alt="...">
                 </div>
-                <!-- Item 5
+                <!-- Item 5 -->
                 <div class="hidden duration-700 ease-in-out absolute inset-0 transition-all transform" data-carousel-item="">
                     <img src="/docs/images/carousel/carousel-5.svg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
-                </div> -->
+                </div>
             </div>
             <!-- Slider controls -->
             <button type="button" class="absolute top-0 left-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none" data-carousel-prev="">
@@ -176,30 +176,6 @@
         <!-- Box Section End -->
 
         <!-- registration part -->
-        <!--    <section class="text-gray-600 body-font pt-20">
-            <div id="cxo" class="container mx-auto flex px-5 items-center justify-center flex-col bg-repeat-x"
-                style="background-image: url('../assets/images/logo/graphic (2).png')">
-                <h1 class="title-font sm:text-3xl md:text-4xl lg:text-5xl mb-4 font-bold text-gray-900">Nomination for
-                    Acknowledgement</h1>
-                <h3 class="title-font sm:text-md md:text-xl lg:text-2xl mb-4 font-bold text-gray-900">Transcending CXOs
-                </h3>
-                <p class="mb-8 leading-relaxed">There’s only one step between a CXO and an immortal legacy;
-                    Resurgence. <br>
-                    Register as a CXO today to start your own journey towards greatness.</p>
-                <img class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded" alt="hero"
-                    src="../assets/images/logo/website-3.jpg">
-                <div class="text-center lg:w-2/3 w-full">
-                    <div class="flex justify-center">
-                        <button
-                            class="inline-flex text-white bg-indigo-500 border-0 py-4 px-10 focus:outline-none hover:bg-indigo-600 rounded text-3xl"><a
-                                target="_self" href="/registration-3.php">Register for Nomination</a></button>
-                    </div>
-                </div>
-            </div>
-        </section> -->
-        <!-- registration part -->
-
-        <!-- registration part -->
         <section class="text-gray-600 body-font">
             <div id="participants" class="container px-5 py-10 mx-auto">
                 <div class="mb-8">
@@ -249,144 +225,12 @@
         </section>
         <!-- registration part -->
 
-        <!-- Panelists Section Start -->
-        <!-- <section class="text-gray-600 body-font">
-            <div class="container px-5 py-10 mx-auto">
-                <div class="flex flex-col text-center w-full mb-8">
-                    <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Meet The Trustee's</h1>
-                    <p class="lg:w-2/3 mx-auto leading-relaxed text-base italic">"Meet the minds behind the magic you
-                        will
-                        be
-                        witnessing in our event! Hear from our Trustee Board to see what they have to say about CXO
-                        Summit
-                        2021.
-                        Hear from our Trustee Board to see what they have to say about CXO Summit 2021."</p>
-                </div>
-                <div class="flex flex-wrap -m-4">
-                    <div class="lg:w-1/3 sm:w-1/2 p-4">
-                        <div class="flex relative h-250">
-                            <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center"
-                                src="../assets/images/gallery/PANEL-1.png">
-                            <div
-                                class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-gray-300 opacity-0 hover:opacity-100">
-                                <h2
-                                    class="tracking-widest text-sm title-font font-medium text-2xl text-indigo-500 mb-1">
-                                    Anis A. Khan</h2>
-                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">President, VOB</h1>
-                                <p class="leading-relaxed italic">"CXO Summit bring together over 200 CEO, Leaders,
-                                    Professionals
-                                    and Industry Experts in order to foster a Transforming Bangladesh."</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="lg:w-1/3 sm:w-1/2 p-4">
-                        <div class="flex relative h-250">
-                            <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center"
-                                src="../assets/images/gallery/PANEL-2.png">
-                            <div
-                                class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-                                <h2
-                                    class="tracking-widest text-sm title-font font-medium text-2xl text-indigo-500 mb-1">
-                                    Mahzabin Ferdous
-                                </h2>
-                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Director Communications,
-                                    VOB
-                                </h1>
-                                <p class="leading-relaxed italic">"In Pursuit of Resurgence is an approach to crisis
-                                    leadership that
-                                    compliments organization’s transformative landscape."</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="lg:w-1/3 sm:w-1/2 p-4">
-                        <div class="flex relative h-250">
-                            <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center"
-                                src="../assets/images/gallery/PANEL-3.png">
-                            <div
-                                class="px-8 py-8 relative z-10 w-full border-4 border-gray-200 bg-gray-300 opacity-0 hover:opacity-100">
-                                <h2 class="tracking-widest text-sm title-font font-medium text-xl text-indigo-500 mb-1">
-                                    KAM
-                                    Majedur Rahman</h2>
-                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">CEO, A.K. Khan & Company
-                                </h1>
-                                <p class="leading-relaxed italic">"A revival journey, without any formal leadership
-                                    development
-                                    process in times of transformation."</p><br>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="lg:w-1/3 sm:w-1/2 p-4">
-                        <div class="flex relative h-250">
-                            <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center"
-                                src="../assets/images/gallery/PANEL-4.png">
-                            <div
-                                class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-                                <h2 class="tracking-widest text-sm title-font font-medium text-xl text-indigo-500 mb-1">
-                                    Shah
-                                    Md. Ahsan Habib
-                                </h2>
-                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Director,Training at BIBM
-                                </h1>
-                                <p class="leading-relaxed text-sm italic pt-2">"A significant requirement that stands
-                                    between a
-                                    CXO and
-                                    professional resurgence is one big leap of faith. Having that belief is pivotal"</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="lg:w-1/3 sm:w-1/2 p-4">
-                        <div class="flex relative h-250">
-                            <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center"
-                                src="../assets/images/gallery/PANEL 5.png">
-                            <div
-                                class="px-8 py-8 relative z-10 w-full border-4 border-gray-200 bg-gray-300 opacity-0 hover:opacity-100">
-                                <h2 class="tracking-widest text-sm title-font font-medium text-xl text-indigo-500 mb-1">
-                                    Najmus Ahmed ALbab</h2>
-                                <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Founder & Executive
-                                    Director,
-                                    VOB</h1>
-                                <p class="leading-relaxed italic pt-2">"Resurgence is the hallmark of any
-                                    great leader of today. Having it in your arsenal will ultimately bring eternal
-                                    glory."
-                                </p>
-                                <br>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="lg:w-1/3 sm:w-1/2 p-4">
-                        <div class="flex relative h-250">
-                            <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center"
-                                src="../assets/images/gallery/panel-6.png">
-                            <div
-                                class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
-                                <h2 class="tracking-widest text-lg title-font font-medium text-indigo-500 mb-1">Rokeya
-                                    Afzal
-                                    Rahman</h2>
-                                <h1 class="title-font text-md font-medium text-gray-900 mb-3">President of BFWE</h1>
-                                <p class="leading-relaxed italic">"Discipline is only effective when you have the will
-                                    of
-                                    resurgence
-                                    to back it up. Together, they make a leader unstoppable."</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> -->
-        <!-- Panelists Section End -->
-
         <!-- Panel Update Start-->
         <section class="text-gray-600 body-font" id="panelist">
             <div class="container px-5 py-10 mx-auto">
                 <div class="flex flex-col text-center w-full mb-8">
-                    <h1 class="sm:text-4xl text-2xl font-medium title-font mb-4 text-gray-900">Meet The Trustees</h1>
-                    <!--<p class="lg:w-2/3 mx-auto leading-relaxed text-base italic">"Meet the minds behind the magic you-->
-                    <!--    will-->
-                    <!--    be-->
-                    <!--    witnessing in our event! Hear from our Trustee Board to see what they have to say about Strategy-->
-                    <!--    Summit-->
-                    <!--    2022.-->
-                    <!--    Hear from our Trustee Board to see what they have to say about Strategy Summit 2022."</p>-->
+                    <h1 class="sm:text-4xl text-2xl font-medium title-font mb-4 text-gray-900">Meet The Panelists</h1>
+                    <p class="lg:w-2/3 mx-auto leading-relaxed text-base italic">"Meet the honorable panelists of the day long event of Cancer SUmmit 2022. Hear from our Trustee Board of BANCAT about the BANCAT initiative on "Alok Nibash" and The Cancer Summit 2022"</p>
                     <div class="h-1 bg-indigo-200 rounded overflow-hidden mt-12">
                         <div class="w-3/4 h-full bg-indigo-500"></div>
                     </div>
@@ -596,6 +440,7 @@
         </section>
         <!-- Panle Update End-->
 
+        <!-- Event Schedule Start-->
         <section class="overflow-hidden text-gray-700 pt-4 pb-8">
             <div class="flex flex-col text-center w-full mb-12">
                 <h1 class="sm:text-3xl text-5xl font-medium title-font mb-4 text-gray-900">30 th September Friday (one day) Pre-final program schedule</h1>
@@ -667,6 +512,7 @@
             </div>
 
         </section>
+        <!-- Event Schedule End-->
 
         <!-- extra gallery section-->
         <section class="overflow-hidden text-gray-700 pt-4 pb-8">
@@ -732,9 +578,7 @@
         </section>
         <!-- extra gallery section -->
 
-
         <!-- Contact and Map Section Start -->
-
         <section class="text-gray-600 body-font relative my-6 mx-12">
             <div class="absolute inset-0 bg-gray-300">
                 <iframe width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0" title="map" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.0749249831692!2d90.40669431427716!3d23.81593459218807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c6feb6c1b7b1%3A0x76350c55ebc50c34!2sRadisson%20Blu%20Dhaka%20Water%20Garden!5e0!3m2!1sen!2sbd!4v1663179151685!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" style="filter: grayscale(1) contrast(1.2) opacity(0.4);"></iframe>
@@ -764,7 +608,6 @@
                 </div>
             </div>
         </section>
-
         <!-- Contact and Map Section Start -->
 
 </main>
