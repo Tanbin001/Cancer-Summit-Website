@@ -1,6 +1,6 @@
 <?php
 $_SESSION['title'] = "Home";
-// include_once('backend/dbconnect.php');
+include_once('backend/dbconnect.php');
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -9,13 +9,12 @@ $_SESSION['title'] = "Home";
 </head>
 <body>
 
-    <?php
+<?php
+    include 'chunks/header.php';
 
-include 'chunks/header.php';
+    include 'page-body/home-body.php';
 
-include 'page-body/home-body.php';
-
-include 'chunks/footer.php';
+    include 'chunks/footer.php';
 ?>
 
 </body>
