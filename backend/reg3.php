@@ -1,8 +1,8 @@
 <?php
+    $msg = "";
+    $msg2 = "";
     if(isset($_POST['submit']))
     {
-        $msg = "";
-        $msg2 = "";
         $fname = $_POST['fname'];
         $email = $_POST['email'];
         $organization = $_POST['organization'];
