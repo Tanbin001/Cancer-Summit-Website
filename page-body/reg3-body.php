@@ -1,32 +1,6 @@
 <main>
     <section class=" py-1 bg-blueGray-50">
-            <?php
-                if($msg == 'success'){
-            ?>
-            <center>
-                <div class="border px-4 py-4 w-8/12 border-green-400 bg-green-300 text-green-900">
-                    <b>Success!!</b>&nbsp You have Successfully Registered! We Will Contact you soon!
-                </div>
-            </center>
-            <?php
-                }else if($msg == 'error'){
-            ?>
-            <center>
-                <div class="border px-4 py-4 w-8/12 border-red-400 bg-red-300 text-red-900">
-                    <b>Database Error!!</b>&nbsp Please Try Again After a Few Moment!
-                </div>
-            </center>
-            <?php
-                }else if($msg == 'alert'){
-            ?>
-            <center>
-                <div class="border px-4 py-4 w-8/12 border-yellow-400 bg-yellow-300 text-yellow-900">
-                    <b>Re-entry!!</b>&nbsp You have already Registered with this Email!
-                </div>
-            </center>
-            <?php
-                }
-            ?>
+        <?php include(ROOT.'/chunks/alert.php'); ?>
         <div class="w-full lg:w-8/12 px-4 mx-auto mt-6">
             <div
                 class="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded-lg bg-blueGray-100 border-0">
