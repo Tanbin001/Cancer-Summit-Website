@@ -41,7 +41,7 @@
                     </svg>
                 </a>
             </span> -->
-            <div class="container text-center grid grid-cols-3  md:grid-rows-1 sm:grid-rows-1 gap-4 ">
+            <div class="container grid lg:grid-cols-3  md:grid-cols-1 sm:grid-cols-1 gap-4 ">
                 <div class="px-8 mx-8 text-left flex flex-col justify-center">
                     <img style="object-fit: scale-down;" class="lg:h-48 md:h-36 w-full object-cover object-center" src="./assets/images/logo/Strategy Summit 2022.png" alt="blog">
 
@@ -79,7 +79,7 @@
                     </div>
 `               </div>
 
-                <div class="text-white flex flex-col text-left px-8">
+                <div class="text-white flex flex-col text-left px-8 custom-text-align">
                     <h3 class="font-semibold pb-4">CONTACTS</h3>
                     <div class="py-3 flex items-center">
                         <p>Room No: 426, Block-B, TB Gate Rd, Mohakhali, Dhaka 1212 ,Bangladesh</p>
@@ -93,7 +93,7 @@
                     </div>
                 </div>
 
-                <div class="text-white flex flex-col text-left px-8">
+                <div class="text-white flex flex-col text-left px-8 custom-text-align">
                     <h3 class="font-semibold pb-4">USEFUL LINKS</h3>
                     <a class="py-3" href="/">events</a>
                     <a class="py-3" href="/">about us</a>

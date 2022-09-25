@@ -6,22 +6,43 @@
     .h-64 {
         height: 10rem !important;
     } 
+    .custom-text-align{
+        text-align: center;
+    }
 }
 
 @media only screen and (max-width: 639px) {
     .copyright-text{
         text-align: center;
     }   
+    .custom-count-control canvas{
+        width: 500px !important;
+    }
+    .custom-text-align{
+        text-align: center;
+    }
 }
 
 @media only screen and (max-width: 460px) {
     nav button{
         font-size: 13px;
+    } 
+    .custom-count-control canvas{
+        width: 300px !important;
+    } 
+    .custom-text-align{
+        text-align: center;
     }
 }
 
 @media only screen and (max-width: 375px) {
     nav button{
         font-size: 12px;
-    }    
+    } 
+    .custom-count-control canvas{
+        width: 300px !important;
+    } 
+    .custom-text-align{
+        text-align: center;
+    }
 }

@@ -2,7 +2,7 @@
     <header class="text-white body-font bg-gray-100">
         <div class="container mx-auto  pt-0 pb-2 items-center">
 
-            <div class="flex flex-row justify-between items-center md:flex md:flex-col sm:flex sm:flex-col ">
+            <div class="flex justify-between items-center lg:flex-row md:flex-col sm:flex-col ">
                     <div>
                         <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                             <img src="./assets/images/logo/Strategy Summit 2022.png" class="w-32" alt="">
@@ -13,7 +13,7 @@
                             <img src="./assets/images/logo/bancat.png" class="w-32" alt="">
                         </a>
                     </div>
-                    <div class="flex flex-col">
+                    <div class="flex flex-col md:order-last sm:order-last">
                         <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                             <span style="color: black"><i class="fas fa-phone"></i> +880 1404016993</span>
                         </a>

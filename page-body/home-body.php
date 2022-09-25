@@ -65,7 +65,9 @@
                 <div class="py-6 uppercase lg:font-extrabold text-gray-900">
                     <center>
                         <h1 class="sm:w-full md:w-full lg:w-full text-gray-900 title-font lg:text-2xl md:text-md sm:text-sm mb-2 sm:mb-0 py-3">Program starts in</h1>
-                        <script class="eca65e30de7bf0be52789d3dd040ee12" src="https://w.promofeatures.com/js/timer/eca65e30de7bf0be52789d3dd040ee12.js?v=1661424869"></script>
+                        <div class="custom-count-control">
+                             <script class="eca65e30de7bf0be52789d3dd040ee12" src="https://w.promofeatures.com/js/timer/eca65e30de7bf0be52789d3dd040ee12.js?v=1661424869"></script>
+                        </div>
                     </center>
 
                 </div>
@@ -235,7 +237,7 @@
                         <div class="w-3/4 h-full bg-indigo-500"></div>
                     </div>
                 </div>
-                <div class="-m-4 grid grid-cols-2 gap-4 lg:grid-cols-4 md:grid-cols-3">
+                <div class="-m-4 grid grid-cols-1 gap-4 lg:grid-cols-4 md:grid-cols-3">
                     <div class="">
                         <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
                             <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="./assets/images/gallery/panel/panel (8).jpg" alt="blog">
@@ -443,7 +445,7 @@
         <!-- Event Schedule Start-->
         <section class="overflow-hidden text-gray-700 pt-4 pb-8">
             <div class="flex flex-col text-center w-full mb-12">
-                <h1 class="sm:text-3xl text-5xl font-medium title-font mb-4 text-gray-900">30 th September Friday (one day) Pre-final program schedule</h1>
+                <h1 class="text-3xl font-medium title-font mb-4 text-gray-900">30 th September Friday (one day) Pre-final program schedule</h1>
             </div>
             <div class="py-5 px-5 container text-center mx-auto">
 
