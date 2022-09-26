@@ -106,7 +106,7 @@
             <div class="text-white pt-5 flex justify-between items-center">
                 <p class="my-5">Copyright © 2022 Valor of Bangladesh, All Right Reserved.</p>
                 <a target="_blank" href="https://ebuzz-it.com" class="eBuzz-it">
-                Develop By eBuzz-IT
+                Developed & Maintained By eBuzz-IT
                 </a>
             </div>
         </div>
