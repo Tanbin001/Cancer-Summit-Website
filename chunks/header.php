@@ -17,9 +17,9 @@
                         <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                             <span style="color: black"><i class="fas fa-phone"></i> +880 1404016993</span>
                         </a>
-                        <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                        <!-- <a href="/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
                             <span style="color: black"><i class="fas fa-phone"></i> +880 1404016993</span>
-                        </a>
+                        </a> -->
                     </div>
                     <div>
                         <a href="https://valorofbangladesh.com/" class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
@@ -29,7 +29,7 @@
                 </div>
             <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
 
-                <div class="pb-5">
+                <div class="pb-5" style="text-align: center">
                 <button
                     class="modal-open transition duration-500 ease-in-out bg-black nav-txt hover:bg-yellow-200 transform hover:-translate-y-1 hover:scale-110 px-3 py-2 mr-2 rounded ring-2 ring-indigo-500 ring-opacity-50 font-bold">
                     Cancer SUMMIT 2022
