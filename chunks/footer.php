@@ -85,8 +85,8 @@
                         <p>Room No: 426, Block-B, TB Gate Rd, Mohakhali, Dhaka 1212 ,Bangladesh</p>
                     </div>
                     <div class="py-3 flex items-center">
-                        <p>01712245944
-                        01856148712</p>
+                        <p>+8801712245944,
+                        +8801856148712</p>
                     </div>
                     <div class="py-3 flex items-center">
                         <p>info@dhakacancersummit.org</p>
@@ -95,10 +95,11 @@
 
                 <div class="text-white flex flex-col text-left px-8 custom-text-align">
                     <h3 class="font-semibold pb-4">USEFUL LINKS</h3>
-                    <a class="py-3" href="/">events</a>
                     <a class="py-3" href="/">about us</a>
-                    <a class="py-3" href="/">about us</a>
-                    <a class="py-3" href="/">about us</a>
+                    <a class="py-3" href="/">contact us</a>
+                    <a class="py-3" href="/">Schedules</a>
+                    <a class="py-3" href="/">Image Gallery</a>
+                    <a class="py-3" href="/">Register</a>
                 </div>
 
             </div>
